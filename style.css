@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.poster {
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.img-poster {
+    border: 2px solid white;
+    width: 100%;
+}
+
+h1 {
+    font-size: 2rem;
+    text-transform: uppercase;
+}
